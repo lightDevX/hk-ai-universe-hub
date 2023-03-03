@@ -1,0 +1,15 @@
+{
+  "name": "hk-ai-universe-hub",
+  "version": "1.0.0",
+  "description": "### Private Repo Link Click Here to create [private repo](https://classroom.github.com/a/dhefyS56)",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/tailwindcss/tailwind.css -o ./dist/tailwind/tailwind.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
